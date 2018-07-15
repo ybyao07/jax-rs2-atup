@@ -142,9 +142,9 @@
 
             <properties>
                 <h>${nginx.server.ip}</h>
-                <u>eric</u>
-                <p>han</p>
-                <d>/home/eric/nginx/atup-page</d>
+                <u>ybyao07</u>
+                <p>ybyao07</p>
+                <d>/home/ybyao07/Documents/nginx/atup-page</d>
             </properties>
         </profile>
     </profiles>

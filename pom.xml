@@ -17,9 +17,9 @@
     </modules>
 
     <properties>
-        <nginx.server.ip>192.168.1.160</nginx.server.ip>
-        <tomcat.server.ip>192.168.1.180</tomcat.server.ip>
-        <mysql.server.ip>192.168.1.180</mysql.server.ip>
+        <nginx.server.ip>192.168.1.107</nginx.server.ip>
+        <tomcat.server.ip>192.168.1.104</tomcat.server.ip>
+        <mysql.server.ip>192.168.1.104</mysql.server.ip>
         <tomcat.local.port>8080</tomcat.local.port>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
